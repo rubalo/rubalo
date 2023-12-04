@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning rust
+- 📫 How to reach me: please don't
+- ⚡ Fun fact: Sloths can hold their breath for longer than dolphins
 <!--
 **rubalo/rubalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
