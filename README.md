@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning rust
-- 📫 How to reach me: please don't
-- ⚡ Fun fact: Sloths can hold their breath for longer than dolphins
+- 🔭 I’m currently working on a Home Energy Storage System (HESS) 
+- 🌱 I’m currently learning rust (But slowly)
+- 📫 How to reach me: please don't but if you do ...
+- 💬 Ask me about software development 
+- ⚡ Fun fact: a group of flamingos is called a "flamboyance."
+
 <!--
 **rubalo/rubalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
