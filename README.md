@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Home Energy Storage System (HESS) 
-- 🌱 I’m currently learning rust (But slowly)
-- 📫 How to reach me: please don't but if you do ...
-- 💬 Ask me about software development 
+- 📫 How to reach me: please don't but if you do you can ...
+- 💬 Ask me about software development
+- 🥁 Teach me something about drums
 - ⚡ Fun fact: a group of flamingos is called a "flamboyance."
 
 <!--
