@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Home Energy Storage System (HESS) 
-- 📫 How to reach me: please don't but if you do you can ...
+- 🔭 I’m currently working on a personnal project to ramp up on cloud and AI subjects
 - 💬 Ask me about software development
 - 🥁 Teach me something about drums
+- 🎄 Finally finished advent of code 2024 ! Ready for 2025...
 - ⚡ Fun fact: a group of flamingos is called a "flamboyance."
 
 <!--
