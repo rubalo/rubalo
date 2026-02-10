@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a personnal project to ramp up on cloud and AI subjects
-- 💬 Ask me about SRE and software development
+- 🔭 I’m currently working as an SRE
+- 💬 Ask me about Devops and software development
 - 🥁 Teach me something about drums
 - 🎄 Finally finished advent of code 2024 ! Ready for 2025...
 - ⚡ Fun fact: a group of flamingos is called a "flamboyance."
