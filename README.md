@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as an SRE
 - 💬 Ask me about Devops and software development
 - 🥁 Teach me something about drums
-- I feel like Phil Selway, Ed O'Brian, Colin Greenwood, Jonny Greenwood, Thom yorke, Phil Selway... But without the rythm, the melody, the lyrics and the talent...
+- I feel like Phil Selway, Ed O'Brian, Colin Greenwood, Jonny Greenwood, Thom Yorke, Phil Selway... But without the rythm, the melody, the lyrics and the talent...
 
 <!--
 **rubalo/rubalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
